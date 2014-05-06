@@ -2,7 +2,7 @@
 
 _iso-8859-8-i_ is a robust JavaScript implementation of [the iso-8859-8-i character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#iso-8859-8-i).
 
-This encoding is known under the following names: csiso88598i, iso-8859-8-i, logical, and logical.
+This encoding is known under the following names: csiso88598i, iso-8859-8-i, and logical.
 
 ## Installation
 
