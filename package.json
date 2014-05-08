@@ -3,7 +3,7 @@
 	"version": "0.1.1",
 	"description": "A robust iso-8859-8-i encoder/decoder written in JavaScript.",
 	"homepage": "http://mths.be/iso-8859-8-i",
-	"main": "iso88598i.js",
+	"main": "iso-8859-8-i.js",
 	"keywords": [
 		"codec",
 		"decoder",
@@ -32,7 +32,7 @@
 	},
 	"files": [
 		"LICENSE-MIT.txt",
-		"iso88598i.js"
+		"iso-8859-8-i.js"
 	],
 	"directories": {
 		"test": "tests"
