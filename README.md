@@ -1,4 +1,4 @@
-# iso-8859-8-i [![iso-8859-8-i on npm](https://img.shields.io/npm/v/iso-8859-8-i)](https://www.npmjs.com/package/iso-8859-8-i)
+# iso-8859-8-i [![Build status](https://github.com/mathiasbynens/iso-8859-8-i/workflows/run-checks/badge.svg)](https://github.com/mathiasbynens/iso-8859-8-i/actions?query=workflow%3Arun-checks) [![iso-8859-8-i on npm](https://img.shields.io/npm/v/iso-8859-8-i)](https://www.npmjs.com/package/iso-8859-8-i)
 
 _iso-8859-8-i_ is a robust JavaScript implementation of [the iso-8859-8-i character encoding as defined by the Encoding Standard](https://encoding.spec.whatwg.org/#iso-8859-8-i).
 
