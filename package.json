@@ -3,7 +3,7 @@
 	"version": "3.0.0",
 	"description": "A robust iso-8859-8-i encoder/decoder written in JavaScript.",
 	"homepage": "https://mths.be/iso-8859-8-i",
-	"exports": "iso-8859-8-i.mjs",
+	"exports": "./iso-8859-8-i.mjs",
 	"keywords": [
 		"codec",
 		"decoder",
