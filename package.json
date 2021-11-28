@@ -28,8 +28,10 @@
 	"bugs": "https://github.com/mathiasbynens/iso-8859-8-i/issues",
 	"files": [
 		"LICENSE-MIT.txt",
-		"iso-8859-8-i.mjs"
+		"iso-8859-8-i.mjs",
+		"iso-8859-8-i.d.ts"
 	],
+	"types": "iso-8859-8-i.d.ts",
 	"scripts": {
 		"download": "curl https://encoding.spec.whatwg.org/index-iso-8859-8.txt > data/index.txt",
 		"build": "node scripts/transform-data.js",
